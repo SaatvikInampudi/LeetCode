@@ -14,7 +14,7 @@ class Solution:
         #                     ans = strs[i][:j]
         #                 else:
         #                     ans = ""
-        print(len(strs))
+        # print(len(strs))
         if len(strs) > 1 :  
             check = 0
             # max_len = 0
@@ -24,35 +24,35 @@ class Solution:
 
             lcp = strs[0][:1]
             # print('max=',max_len)
-            print(lcp)
+            # print(lcp)
             if len(strs[0]) != 0:
-                print('chk')
+                # print('chk')
                 for j in range(1,len(strs[0])+1):
-                    print('j',j)
+                    # print('j',j)
                     for i in range(1,len(strs)):
-                        print('i',i)
-                        print(strs[i][:j])
+                        # print('i',i)
+                        # print(strs[i][:j])
                         if (strs[i][:j] == lcp):
-                            print('chk2')
+                            # print('chk2')
                             if i == len(strs)-1 and j == len(strs[0]):
                                 return lcp
                             continue
                         else:
-                            print('check')
+                            # print('check')
                             check = 1
                             if len(lcp[:len(lcp)-1]) != 0:
-                                print('testing',len(lcp[:len(lcp)-1]))
+                                # print('testing',len(lcp[:len(lcp)-1]))
                                 return lcp[:len(lcp)-1]
                             else:
                                 return ""
                             break
-                    print('before incr=',lcp)
+                    # print('before incr=',lcp)
                     lcp = strs[0][:j+1]
-                    print('after incrementing lcp=',lcp)
+                    # print('after incrementing lcp=',lcp)
                     if check == 1:
                         break
             else:
                 return ""
         else:
-            print('test')
+            # print('test')
             return strs[0]
