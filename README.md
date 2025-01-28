@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SaatvikInampudi/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SaatvikInampudi/LeetCode/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SaatvikInampudi/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SaatvikInampudi/LeetCode/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -46,12 +48,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
