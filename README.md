@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/0948-sort-an-array) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SaatvikInampudi/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaatvikInampudi/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SaatvikInampudi/LeetCode/tree/master/0268-missing-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SaatvikInampudi/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SaatvikInampudi/LeetCode/tree/master/0268-missing-number) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/SaatvikInampudi/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
