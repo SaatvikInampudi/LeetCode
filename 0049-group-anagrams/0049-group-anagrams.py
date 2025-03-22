@@ -28,11 +28,24 @@ class Solution:
         #         ans.append(strs[i])
         #         strs.pop(i)
         
-        dict = {}
-        for i in range(len(strs)):
-            sort_wrd = ''.join(sorted(strs[i]))
-            print(sort_wrd)
-            if sort_wrd not in dict:
-                dict[sort_wrd] = []
-            dict[sort_wrd].append(strs[i])
-        return list((dict.values()))
+        # dicto = {}
+        # for i in range(len(strs)):
+        #     sort_wrd = ''.join(sorted(strs[i]))
+        #     # sort_wrd = sorted(strs[i])
+        #     print(sort_wrd)
+        #     if sort_wrd in dicto:
+        #         dicto[sort_wrd].append(strs[i])
+        #     else:
+        #         dicto[sort_wrd] = [strs[i]]
+        # return list((dicto.values()))
+
+
+        dicto = {}
+        for word in strs:
+            key = frozenset(Counter(word).items())  # frozenset of (char, count) pairs
+            print(key)
+            if key in dicto:
+                dicto[key].append(word)
+            else:
+                dicto[key] = [word]
+        return list(dicto.values())
