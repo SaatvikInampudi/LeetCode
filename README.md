@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaatvikInampudi/LeetCode/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SaatvikInampudi/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SaatvikInampudi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaatvikInampudi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SaatvikInampudi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SaatvikInampudi/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SaatvikInampudi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaatvikInampudi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
