@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SaatvikInampudi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 ## Design
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/SaatvikInampudi/LeetCode/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SaatvikInampudi/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
