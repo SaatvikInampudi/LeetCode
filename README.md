@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SaatvikInampudi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaatvikInampudi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/SaatvikInampudi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/0948-sort-an-array) |
@@ -193,4 +194,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaatvikInampudi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SaatvikInampudi/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/SaatvikInampudi/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SaatvikInampudi/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
