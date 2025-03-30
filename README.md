@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SaatvikInampudi/LeetCode/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SaatvikInampudi/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/SaatvikInampudi/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/SaatvikInampudi/LeetCode/tree/master/0817-design-hashmap) |
@@ -191,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaatvikInampudi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/SaatvikInampudi/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
