@@ -1,28 +1,26 @@
 class MinStack:
-
     def __init__(self):
-        self.arr = []
-        # self.minval = float('inf')
-        # self.minHeap = []
+        self.stack = []
+        self.min_stack = []
 
     def push(self, val: int) -> None:
-        self.arr.append(val)
-        # if self.minval > val:
-        #     self.minval = val
-        # heapq.heappush(self.minHeap,val)
+        # if len(self.min_stack) == 0:
+        #     self.min_stack.append(val)
+        if self.min_stack and self.min_stack[-1] <= val:
+            self.min_stack.append(self.min_stack[-1])
+        else:
+            self.min_stack.append(val)
+        self.stack.append(val)
 
     def pop(self) -> None:
-        # if self.arr[-1] == self.minHeap[0]:
-        #     heapq.heappop(self.minHeap)
-        self.arr = self.arr[0:len(self.arr)-1]
-        print(self.arr)
+        self.stack.pop()
+        self.min_stack.pop()
 
     def top(self) -> int:
-        return self.arr[-1]
+        return self.stack[-1]
 
     def getMin(self) -> int:
-        # return self.minHeap[0]
-        return min(self.arr)
+        return self.min_stack[-1]
 
 
 # Your MinStack object will be instantiated and called as such:
