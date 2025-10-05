@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/0948-sort-an-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SaatvikInampudi/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaatvikInampudi/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2058-concatenation-of-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SaatvikInampudi/LeetCode/tree/master/0226-invert-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SaatvikInampudi/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
